@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: tokyo-pr0
+    name: proxymanner
     env: docker
     plan: free
